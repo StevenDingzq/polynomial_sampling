@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhiqiangding/polynomial_sampling/main.cc
+test.h
+/home/zhiqiangding/polynomial_sampling/test.h
+chrono
+-
+iomanip
+-
+
+/home/zhiqiangding/polynomial_sampling/test.h
+algorithm
+-
+iostream
+-
+iterator
+-
+math.h
+-
+vector
+-
+
